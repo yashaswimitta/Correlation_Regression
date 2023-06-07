@@ -20,7 +20,7 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-````
+```
 
 DEVELOPED BY :YASHASWI MITTA
 REGISTER NO : 212221230062
@@ -58,6 +58,7 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
+
 # Output 
 ![prob 3](https://github.com/yashaswimitta/Correlation_Regression/assets/94619247/94f4ab2c-c896-4886-868a-846cc0aafce6)
 
